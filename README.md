@@ -1,5 +1,7 @@
 # Minimal react boilerplate
 
+[![Build Status](https://travis-ci.org/blazecolour/minimal-react-boilerplate.svg?branch=master)](https://travis-ci.org/blazecolour/minimal-react-boilerplate)
+
 ## Features
 
 * React 16
