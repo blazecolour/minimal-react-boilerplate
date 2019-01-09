@@ -11,7 +11,7 @@ class App extends React.Component {
             <p>
               git clone git@github.com:blazecolour/minimal-react-boilerplate.git
             </p>
-            <p> cd minimal-react-boilerplate </p>
+            <p>cd minimal-react-boilerplate</p>
             <p>npm install</p>
             <p>npm start</p>
           </code>
